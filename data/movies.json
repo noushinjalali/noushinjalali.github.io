@@ -1,0 +1,56 @@
+
+{ 
+    "movies": [
+    {
+      "id": 1,
+      "title": "Interstellar",
+      "year": 2014,
+      "genre": "Adventure, Drama, Science Fiction",
+      "overview":
+        "The adventures of a group of explorers who make use of a newly discovered wormhole to surpass the limitations on human space travel and conquer the vast distances involved in an interstellar voyage.",
+      "director": "Christopher Nolan",
+      "poster":
+        "https://www.themoviedb.org/t/p/w1280/gEU2QniE6E77NI6lCU6MxlNBvIx.jpg",
+      "time": "2h 49m",
+      "price": "$99.00"
+    },
+    {
+      "id": 2,
+      "title": "Inception",
+      "year": 2010,
+      "genre": "Action, Science Fiction, Adventure",
+      "overview":
+        "Cobb, a skilled thief who commits corporate espionage by infiltrating the subconscious of his targets is offered a chance to regain his old life as payment for a task considered to be impossible: inception, the implantation of another person's idea into a target's subconscious.",
+      "director": "Christopher Nolan",
+      "poster":
+        "https://www.themoviedb.org/t/p/w1280/edv5CZvWj09upOsy2Y6IwDhK8bt.jpg",
+      "time": "2h 28m",
+      "price": "$99.00",
+    },
+    {
+      "id": 3,
+      "title": "Shutter Island",
+      "year": 2010,
+      "genre": "Drama, Thriller, Mystery",
+      "overview":
+        "World War II soldier-turned-U.S. Marshal Teddy Daniels investigates the disappearance of a patient from a hospital for the criminally insane, but his efforts are compromised by troubling visions and a mysterious doctor.",
+      "director": "Martin Scorsese",
+      "poster":
+        "https://www.themoviedb.org/t/p/w1280/4GDy0PHYX3VRXUtwK5ysFbg3kEx.jpg",
+      "time": "2h 18m",
+      "price": "$79.00",
+    },
+    {
+      "id": 4,
+      "title": "Hamlet",
+      "year": 1990,
+      "genre": "Drama, History",
+      "overview":
+        "Hamlet, Prince of Denmark, returns home to find his father murdered and his mother now marrying the murderer... his uncle. Meanwhile, war is brewing.",
+      "director": "Kenneth Branagh",
+      "poster":
+        "https://media.themoviedb.org/t/p/w600_and_h900_bestv2/ilurgUOp6SCl4cuhfjctj1qxlfZ.jpg",
+      "time": "4h 2m",
+      "price": "$99.00",
+    },
+  ];
